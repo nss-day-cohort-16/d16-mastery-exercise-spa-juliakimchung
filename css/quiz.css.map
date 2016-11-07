@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAMA,QAAS;EACL,MAAM,EAAE,gBAAgB;;AAG5B,GAAI;EACH,WAAW,EAAE,KAAK;;AAKnB,aAAa;EACX,MAAM,EAAE,SAAS;EACjB,gBAAgB,EAAE,UAAU",
+"sources": ["../sass/styles.scss"],
+"names": [],
+"file": "quiz.css"
+}
