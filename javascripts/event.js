@@ -11,15 +11,20 @@
 	var submit = document.getElementById("submitBtn");
     var selectedCard = event.currentTarget;
 
-		$("#inputText").keypress (function editCard(event){
-		    //if(event.keyCode === 13){
-			//if(!selectedCard){alert("please choose your car")}
+		$("#inputText").keyup (function editCard(event){
+		   
 			var edition = selectedCard.querySelector(".description");
 			
 		    edition.innerHTML = inputText.value;
-			}
 			
+			}
 		);
+
+		inputText.addEventListener("keypress",function deleteInputText(event){
+			if(event.keyCode ===13) {
+				 inputText.value = " ";
+			}
+		});
 			for (var i = 0; i < allCards.length; i++) {
 				selectedCard = allCards[i];
 			}
