@@ -1,0 +1,19 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #333;
+
+.carCard {
+    border: 1px dotted black;
+}
+
+nav {
+	margin-left: 730px;
+}
+
+.selectedCard{
+  border: 3px solid;
+  background-color: lightgreen;
+}
+
+.spacer {
+	margin: 5px;
+}

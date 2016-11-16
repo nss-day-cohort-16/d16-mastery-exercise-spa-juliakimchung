@@ -1,0 +1,94 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "year": "2010",
+      "price": "10999",
+      "description": "This is an immaculate 2010 Honda Accord with only 21000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Hyundai",
+      "model": "Genesis",
+      "year": "2014",
+      "price": "14550",
+      "description": "This is an immaculate 2014 Hyundai Genisis with only 18000 miles on it. Leather seats, power everything."
+    },
+
+    {
+      "make": "Ford",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "BMW",
+      "model": "Accord",
+      "year": "2010",
+      "price": "10999",
+      "description": "This is an immaculate 2010 Honda Accord with only 21000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Dodge",
+      "model": "Genesis",
+      "year": "2014",
+      "price": "14550",
+      "description": "This is an immaculate 2014 Hyundai Genisis with only 18000 miles on it. Leather seats, power everything."
+    },
+     {
+      "make": "Toyota",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Audi",
+      "model": "Accord",
+      "year": "2010",
+      "price": "10999",
+      "description": "This is an immaculate 2010 Honda Accord with only 21000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Kia",
+      "model": "Genesis",
+      "year": "2014",
+      "price": "14550",
+      "description": "This is an immaculate 2014 Hyundai Genisis with only 18000 miles on it. Leather seats, power everything."
+    },
+
+    {
+      "make": "Suzuki",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Samsung",
+      "model": "Accord",
+      "year": "2010",
+      "price": "10999",
+      "description": "This is an immaculate 2010 Honda Accord with only 21000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "RL",
+      "model": "Genesis",
+      "year": "2014",
+      "price": "14550",
+      "description": "This is an immaculate 2014 Hyundai Genisis with only 18000 miles on it. Leather seats, power everything."
+    }
+
+
+
+
+  ]
+}

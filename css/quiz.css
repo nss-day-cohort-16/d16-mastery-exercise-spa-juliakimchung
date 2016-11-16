@@ -1,0 +1,15 @@
+.carCard {
+  border: 1px dotted black; }
+
+nav {
+  margin-left: 730px; }
+
+.selectedCard {
+  border: 2px solid;
+  background-color: lightgreen; }
+
+  .spacer {
+	margin: 5px;
+}
+
+/*# sourceMappingURL=quiz.css.map */
