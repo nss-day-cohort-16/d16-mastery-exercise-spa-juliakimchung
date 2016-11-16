@@ -16,7 +16,6 @@
 			var edition = selectedCard.querySelector(".description");
 			
 		    edition.innerHTML = inputText.value;
-			
 			}
 		);
 
