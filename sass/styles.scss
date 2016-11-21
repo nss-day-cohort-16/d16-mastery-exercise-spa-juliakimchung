@@ -1,19 +1,28 @@
+
 $font-stack:    Helvetica, sans-serif;
 $primary-color: #333;
 
-.carCard {
-    border: 1px dotted black;
-}
 
 nav {
 	margin-left: 730px;
 }
 
 .selectedCard{
-  border: 3px solid;
   background-color: lightgreen;
+  border: 5px solid;
 }
 
 .spacer {
 	margin: 5px;
+}
+
+.carCards {
+  width: 20%;
+  float: left;
+  text-align: center;
+  position: relative;
+}
+
+.card-wrapper:nth-child(1), .card-wrapper:nth-child(2) {
+  margin-right: 10px;
 }
