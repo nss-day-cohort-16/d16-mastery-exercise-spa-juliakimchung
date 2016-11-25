@@ -4,7 +4,7 @@ let carInventory = require('./carLot'),
     eventStuff = require('./event'),
     Handlebars = require('hbsfy/runtime'),
     carTemplate = require('../template/car-grid.hbs');
-Handlebars.registerPartial('navbar', require('../template/partials/nav-bar.hbs'));
+    Handlebars.registerPartial('navbar', require('../template/partials/nav-bar.hbs'));
 
 function populatePage(inventory) {
   let list = document.getElementById("cars-grid");

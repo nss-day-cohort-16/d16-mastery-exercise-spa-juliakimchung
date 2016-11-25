@@ -1,5 +1,4 @@
 "use strict";
-
 var inventory = [];
 var carLot = {};
 

@@ -1,5 +1,4 @@
 "use strict";
-
 let cardActions = require('./cards');
 let jquery = require('jquery');
 

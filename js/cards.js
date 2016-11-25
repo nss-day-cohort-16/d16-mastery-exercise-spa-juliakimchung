@@ -2,7 +2,6 @@
 let cardActions = {};
 
 cardActions.selectACard = function(event){
-
 let currentCard = event.currentTarget;
 let allCards = document.querySelectorAll(".col-xs-4");
 	for (let i = 0; i < allCards.length; i++){
